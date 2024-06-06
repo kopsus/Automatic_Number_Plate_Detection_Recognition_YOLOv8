@@ -11,7 +11,7 @@ git clone https://github.com/kopsus/Automatic_Number_Plate_Detection_Recognition
 - Goto the cloned folder.
 
 ```
-cd Automatic_Number_Plate_Detection_Recognition_YOLOv8
+cd Number_Plate_Detection_Recognition_YOLOv8
 ```
 
 - Install the dependecies
